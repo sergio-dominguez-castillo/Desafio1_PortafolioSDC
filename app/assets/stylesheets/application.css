@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+ body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.color_navbar {
+    background-color: #373A3C;
+}
+
+#nav-logo {
+    height: 1.5rem;
+}
+
+footer {
+    height: 1.5rem;
+}
